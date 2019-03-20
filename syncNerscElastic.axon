@@ -1,5 +1,5 @@
 /*
-
+ 
   This function queries the inner elastic search
   sync function with the proper parameters that
   are based on the history start and end dates.
