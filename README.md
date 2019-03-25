@@ -56,8 +56,7 @@ ALC:
   ```
   
   ## Authors
-  * **Jacob Rodriguez** - *Server/API connector creation* - [Jacob Rodriguez](https://github.com/JacobBRodriguez)
+  * **Jacob Rodriguez** - *Server/API connector creation* - [Github](https://github.com/JacobBRodriguez)
   
   ## Acknowledgments
-  
   * Chris Weyandt - initial idea for server and helped with successful deployment
